@@ -1,1 +1,1 @@
-this is file4 on branch1.
+this was file4 on branch1, which after merging became file4 on master branch.
